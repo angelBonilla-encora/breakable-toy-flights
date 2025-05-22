@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: breakable-toy-flights
+
+  data:
+    redis:
+      host: localhost
+      port: 6379
+
+amadeus:
+  client-id: 123n7jcQ3NL2vREwMxuFE3TGpvTd7SQY
+  client-secret: R1hmjQG4Hb43ypE6
